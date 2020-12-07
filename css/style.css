@@ -1,15 +1,106 @@
 .page2 {
- height: 60vh;
- width: 100%;
- text-align: center;
+ height: 66vh;
+
 }
-.col {
+.page2Intro {
+ margin-top: 100px;
+}
+.page2 .col {
  display: flex;
- text-align: left;
- align-items: center;
- justify-content: center;
+align-items: center;
+text-align: left;
+justify-content: center;
+ margin-top: 50px;
 }
 .col i {
  margin-right: 20px;
 }
+.row {
+ padding: 0;
+ margin: 0;
+}
+.row img {
 
+ object-fit: cover;
+ padding: 0;
+ margin: 0;
+ width: 100%;
+ text-align: center;
+}
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.page4 {
+ 
+ height: 64.3vh;
+ width: 100%;
+ background-color: lightgray;
+}
+.page4Text {
+ margin-top: 20px;
+ margin-left: 50px;
+
+}
+.page4Text span {
+ font-family: 'Dancing Script';
+ font-size: 20px;
+}
+.page4Text button {
+ background-color: green;
+ padding: 10px 30px;
+ border-radius: 1px;
+ border: 1px solid green;
+ color: white;
+ font-weight: 700;
+}
+.page4Text button:hover {
+ background-color: white;
+ color: black;
+ border: 1px solid black;
+}
+.page5 {
+ display: flex;
+ height: 20vh;
+ width: 60%;
+ align-items: center;
+ justify-content: center;
+ text-align: left;
+
+}
+.row  {
+   
+   
+   
+    overflow: hidden;
+    position: relative;
+   
+    display: inline-block;
+  cursor: pointer;
+}
+.child {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+
+.row .col img {
+   
+ 
+  background-position: center;
+  background-size: cover;
+  transition: transform .2s;
+  padding: 0;
+  margin: 0;
+}
+.page6 .col img:hover {
+cursor: pointer;
+color: rgba(184, 10, 10, 0.5);
+ 
+   transform: scale(1.16); 
+}
