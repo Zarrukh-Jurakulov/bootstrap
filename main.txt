@@ -1,0 +1,20 @@
+    <img
+            src="https://images.unsplash.com/photo-1602524811122-b3aea0e2c0ee?ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+            style="width: 100%; height: 58vh;" alt="">
+
+
+
+              <div class="page4Text" style="margin-top: 40px; margin-right: px;">
+            <div>
+              <h1>Lets get started with tempo</h1>
+              <span>
+                <p>Etiam placerat commodo feugiat. Proin in quam erat. Duis sed porttitor magna, a laoreet enim.</p>
+              </span>
+              <p style="margin-top: 20px;">Morbi pulvinar sagittis ipsum sed posuere. Sed et interdum nibh. Duis
+                tristique
+                massa non est hendrerit
+                vehicula. Fusce
+                rutrum lorem luctus blandit ultricies. Aliquam auctor mi ac odio sollicitudin sollicitudin.</p>
+              <button style="padding: 10 20px;">Learn More</button>
+            </div>
+          </div>
